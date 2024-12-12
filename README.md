@@ -1,6 +1,6 @@
 # MNIST Classification
 
-![Build Status](https://github.com/bhumendra-bisen/cnn_mnist_clasification/actions/workflows/cnn-ml-pipeline.yml)
+![Build Status](https://github.com/bhumendra-bisen/cnn_mnist_clasification/actions/workflows/cnn-ml-pipeline.yml/badge.svg)
 
 A PyTorch implementation of MNIST digit classification achieving 99.4% test accuracy with less than 20k parameters.
 
